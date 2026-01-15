@@ -25,14 +25,14 @@ It allows users to input and manage student grades and generate a summarized per
 
 ## 🧱 Project Structure
 CodeAlpha_StudentGradeTracker
-│── src
-│   ├── model
-│   │   └── Student.java
-│   ├── service
-│   │   └── GradeService.java
-│   └── main
-│       └── Main.java
-│── README.md
+  src
+    model
+      Student.java
+    service
+      GradeService.java
+    main
+      Main.java
+README.md
 
 ---
 
