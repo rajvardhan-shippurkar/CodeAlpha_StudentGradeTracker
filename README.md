@@ -23,9 +23,9 @@ It allows users to input and manage student grades and generate a summarized per
 
 ---
 
-## 🧱 Project Structure
-CodeAlpha_StudentGradeTracker
-    src  
+## 🧱 Project Structure 
+ CodeAlpha_StudentGradeTracker  
+    src 
         model  
             Student.java
         service 
