@@ -1,12 +1,12 @@
-# 🎓 Student Grade Tracker (Java)
+# Student Grade Tracker (Java)
 
-## 📌 Project Overview
+## Project Overview
 The Student Grade Tracker is a Java-based console application developed as part of the CodeAlpha Java Programming Internship.  
 It allows users to input and manage student grades and generate a summarized performance report.
 
 ---
 
-## 🚀 Features
+## Features
 - Add student name and marks
 - Store data using ArrayList
 - Calculate average marks
@@ -16,24 +16,23 @@ It allows users to input and manage student grades and generate a summarized per
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Java
 - Object-Oriented Programming (OOP)
 - ArrayList
 
 ---
 
-## 🧱 Project Structure 
- CodeAlpha_StudentGradeTracker  
-    src 
+## Project Structure
+CodeAlpha_StudentGradeTracker 
+    src  
         model  
-            Student.java
-        service 
-            GradeService.java  
+            Student.java  
+        service  
+            GradeService.java 
         main  
             Main.java  
     README.md  
-
 ---
 
 ## Author
